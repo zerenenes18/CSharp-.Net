@@ -1,0 +1,12 @@
+C:\Users\enes\Desktop\Software\July\AwaitTask\AwaitTask\AwaitTask.TestClasses\bin\Debug\net7.0\AwaitTask.TestClasses.deps.json
+C:\Users\enes\Desktop\Software\July\AwaitTask\AwaitTask\AwaitTask.TestClasses\bin\Debug\net7.0\AwaitTask.TestClasses.dll
+C:\Users\enes\Desktop\Software\July\AwaitTask\AwaitTask\AwaitTask.TestClasses\bin\Debug\net7.0\AwaitTask.TestClasses.pdb
+C:\Users\enes\Desktop\Software\July\AwaitTask\AwaitTask\AwaitTask.TestClasses\obj\Debug\net7.0\AwaitTask.TestClasses.csproj.AssemblyReference.cache
+C:\Users\enes\Desktop\Software\July\AwaitTask\AwaitTask\AwaitTask.TestClasses\obj\Debug\net7.0\AwaitTask.TestClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes\Desktop\Software\July\AwaitTask\AwaitTask\AwaitTask.TestClasses\obj\Debug\net7.0\AwaitTask.TestClasses.AssemblyInfoInputs.cache
+C:\Users\enes\Desktop\Software\July\AwaitTask\AwaitTask\AwaitTask.TestClasses\obj\Debug\net7.0\AwaitTask.TestClasses.AssemblyInfo.cs
+C:\Users\enes\Desktop\Software\July\AwaitTask\AwaitTask\AwaitTask.TestClasses\obj\Debug\net7.0\AwaitTask.TestClasses.csproj.CoreCompileInputs.cache
+C:\Users\enes\Desktop\Software\July\AwaitTask\AwaitTask\AwaitTask.TestClasses\obj\Debug\net7.0\AwaitTask.TestClasses.dll
+C:\Users\enes\Desktop\Software\July\AwaitTask\AwaitTask\AwaitTask.TestClasses\obj\Debug\net7.0\refint\AwaitTask.TestClasses.dll
+C:\Users\enes\Desktop\Software\July\AwaitTask\AwaitTask\AwaitTask.TestClasses\obj\Debug\net7.0\AwaitTask.TestClasses.pdb
+C:\Users\enes\Desktop\Software\July\AwaitTask\AwaitTask\AwaitTask.TestClasses\obj\Debug\net7.0\ref\AwaitTask.TestClasses.dll

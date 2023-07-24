@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AwaitTask.Console/1.0.0": {
+        "dependencies": {
+          "AwaitTask.TestClasses": "1.0.0"
+        },
+        "runtime": {
+          "AwaitTask.Console.dll": {}
+        }
+      },
+      "AwaitTask.TestClasses/1.0.0": {
+        "runtime": {
+          "AwaitTask.TestClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AwaitTask.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AwaitTask.TestClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
