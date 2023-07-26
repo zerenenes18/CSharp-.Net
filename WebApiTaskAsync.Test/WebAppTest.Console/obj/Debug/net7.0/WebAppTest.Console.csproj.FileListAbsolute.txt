@@ -1,0 +1,15 @@
+C:\Users\enes\Desktop\Software\July\AwaitTask\WebApiTaskAsync.Test\WebAppTest.Console\bin\Debug\net7.0\WebAppTest.Console.exe
+C:\Users\enes\Desktop\Software\July\AwaitTask\WebApiTaskAsync.Test\WebAppTest.Console\bin\Debug\net7.0\WebAppTest.Console.deps.json
+C:\Users\enes\Desktop\Software\July\AwaitTask\WebApiTaskAsync.Test\WebAppTest.Console\bin\Debug\net7.0\WebAppTest.Console.runtimeconfig.json
+C:\Users\enes\Desktop\Software\July\AwaitTask\WebApiTaskAsync.Test\WebAppTest.Console\bin\Debug\net7.0\WebAppTest.Console.dll
+C:\Users\enes\Desktop\Software\July\AwaitTask\WebApiTaskAsync.Test\WebAppTest.Console\bin\Debug\net7.0\WebAppTest.Console.pdb
+C:\Users\enes\Desktop\Software\July\AwaitTask\WebApiTaskAsync.Test\WebAppTest.Console\obj\Debug\net7.0\WebAppTest.Console.csproj.AssemblyReference.cache
+C:\Users\enes\Desktop\Software\July\AwaitTask\WebApiTaskAsync.Test\WebAppTest.Console\obj\Debug\net7.0\WebAppTest.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes\Desktop\Software\July\AwaitTask\WebApiTaskAsync.Test\WebAppTest.Console\obj\Debug\net7.0\WebAppTest.Console.AssemblyInfoInputs.cache
+C:\Users\enes\Desktop\Software\July\AwaitTask\WebApiTaskAsync.Test\WebAppTest.Console\obj\Debug\net7.0\WebAppTest.Console.AssemblyInfo.cs
+C:\Users\enes\Desktop\Software\July\AwaitTask\WebApiTaskAsync.Test\WebAppTest.Console\obj\Debug\net7.0\WebAppTest.Console.csproj.CoreCompileInputs.cache
+C:\Users\enes\Desktop\Software\July\AwaitTask\WebApiTaskAsync.Test\WebAppTest.Console\obj\Debug\net7.0\WebAppTest.Console.dll
+C:\Users\enes\Desktop\Software\July\AwaitTask\WebApiTaskAsync.Test\WebAppTest.Console\obj\Debug\net7.0\refint\WebAppTest.Console.dll
+C:\Users\enes\Desktop\Software\July\AwaitTask\WebApiTaskAsync.Test\WebAppTest.Console\obj\Debug\net7.0\WebAppTest.Console.pdb
+C:\Users\enes\Desktop\Software\July\AwaitTask\WebApiTaskAsync.Test\WebAppTest.Console\obj\Debug\net7.0\WebAppTest.Console.genruntimeconfig.cache
+C:\Users\enes\Desktop\Software\July\AwaitTask\WebApiTaskAsync.Test\WebAppTest.Console\obj\Debug\net7.0\ref\WebAppTest.Console.dll

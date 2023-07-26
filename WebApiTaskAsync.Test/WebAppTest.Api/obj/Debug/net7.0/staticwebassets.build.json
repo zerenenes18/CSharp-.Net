@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s7l0ihjTdhAF2IJRGwfevOkoDvJ2pi7YC4IsHJMFnF8=",
+  "Source": "WebAppTest.Api",
+  "BasePath": "_content/WebAppTest.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
