@@ -1,0 +1,15 @@
+C:\Users\enes\Desktop\Software\July\AwaitTask\MailCourier\TestMailCourier\bin\Debug\net7.0\TestMailCourier.exe
+C:\Users\enes\Desktop\Software\July\AwaitTask\MailCourier\TestMailCourier\bin\Debug\net7.0\TestMailCourier.deps.json
+C:\Users\enes\Desktop\Software\July\AwaitTask\MailCourier\TestMailCourier\bin\Debug\net7.0\TestMailCourier.runtimeconfig.json
+C:\Users\enes\Desktop\Software\July\AwaitTask\MailCourier\TestMailCourier\bin\Debug\net7.0\TestMailCourier.dll
+C:\Users\enes\Desktop\Software\July\AwaitTask\MailCourier\TestMailCourier\bin\Debug\net7.0\TestMailCourier.pdb
+C:\Users\enes\Desktop\Software\July\AwaitTask\MailCourier\TestMailCourier\obj\Debug\net7.0\TestMailCourier.csproj.AssemblyReference.cache
+C:\Users\enes\Desktop\Software\July\AwaitTask\MailCourier\TestMailCourier\obj\Debug\net7.0\TestMailCourier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes\Desktop\Software\July\AwaitTask\MailCourier\TestMailCourier\obj\Debug\net7.0\TestMailCourier.AssemblyInfoInputs.cache
+C:\Users\enes\Desktop\Software\July\AwaitTask\MailCourier\TestMailCourier\obj\Debug\net7.0\TestMailCourier.AssemblyInfo.cs
+C:\Users\enes\Desktop\Software\July\AwaitTask\MailCourier\TestMailCourier\obj\Debug\net7.0\TestMailCourier.csproj.CoreCompileInputs.cache
+C:\Users\enes\Desktop\Software\July\AwaitTask\MailCourier\TestMailCourier\obj\Debug\net7.0\TestMailCourier.dll
+C:\Users\enes\Desktop\Software\July\AwaitTask\MailCourier\TestMailCourier\obj\Debug\net7.0\refint\TestMailCourier.dll
+C:\Users\enes\Desktop\Software\July\AwaitTask\MailCourier\TestMailCourier\obj\Debug\net7.0\TestMailCourier.pdb
+C:\Users\enes\Desktop\Software\July\AwaitTask\MailCourier\TestMailCourier\obj\Debug\net7.0\TestMailCourier.genruntimeconfig.cache
+C:\Users\enes\Desktop\Software\July\AwaitTask\MailCourier\TestMailCourier\obj\Debug\net7.0\ref\TestMailCourier.dll
