@@ -1,0 +1,12 @@
+C:\Users\enes\Desktop\Software\July\CSharp-.NET\UnitTests\JobApplication\JopApplicationLibrary\bin\Debug\net7.0\JopApplicationLibrary.deps.json
+C:\Users\enes\Desktop\Software\July\CSharp-.NET\UnitTests\JobApplication\JopApplicationLibrary\bin\Debug\net7.0\JopApplicationLibrary.dll
+C:\Users\enes\Desktop\Software\July\CSharp-.NET\UnitTests\JobApplication\JopApplicationLibrary\bin\Debug\net7.0\JopApplicationLibrary.pdb
+C:\Users\enes\Desktop\Software\July\CSharp-.NET\UnitTests\JobApplication\JopApplicationLibrary\obj\Debug\net7.0\JopApplicationLibrary.csproj.AssemblyReference.cache
+C:\Users\enes\Desktop\Software\July\CSharp-.NET\UnitTests\JobApplication\JopApplicationLibrary\obj\Debug\net7.0\JopApplicationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes\Desktop\Software\July\CSharp-.NET\UnitTests\JobApplication\JopApplicationLibrary\obj\Debug\net7.0\JopApplicationLibrary.AssemblyInfoInputs.cache
+C:\Users\enes\Desktop\Software\July\CSharp-.NET\UnitTests\JobApplication\JopApplicationLibrary\obj\Debug\net7.0\JopApplicationLibrary.AssemblyInfo.cs
+C:\Users\enes\Desktop\Software\July\CSharp-.NET\UnitTests\JobApplication\JopApplicationLibrary\obj\Debug\net7.0\JopApplicationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\enes\Desktop\Software\July\CSharp-.NET\UnitTests\JobApplication\JopApplicationLibrary\obj\Debug\net7.0\JopApplicationLibrary.dll
+C:\Users\enes\Desktop\Software\July\CSharp-.NET\UnitTests\JobApplication\JopApplicationLibrary\obj\Debug\net7.0\refint\JopApplicationLibrary.dll
+C:\Users\enes\Desktop\Software\July\CSharp-.NET\UnitTests\JobApplication\JopApplicationLibrary\obj\Debug\net7.0\JopApplicationLibrary.pdb
+C:\Users\enes\Desktop\Software\July\CSharp-.NET\UnitTests\JobApplication\JopApplicationLibrary\obj\Debug\net7.0\ref\JopApplicationLibrary.dll
